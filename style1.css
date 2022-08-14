@@ -10,6 +10,7 @@ body{
 	width: 80%;
 	margin: auto;
 	overflow: hidden;
+    padding: 10px;
 
 }
 #main-header
@@ -25,13 +26,14 @@ body{
 }
 #navbar ul{
 
-	padding:0;
+	padding:0px;
 	list-style:none;
 
 
 }
 #navbar li{
 	display:inline;
+    padding: 10px;
 }
 #navbar a{
 	
@@ -80,4 +82,3 @@ body{
 	padding: 20px;
 	margin-top: 40px;
 }
-
